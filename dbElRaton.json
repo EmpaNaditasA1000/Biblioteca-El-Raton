@@ -1,0 +1,134 @@
+{
+    "libros": [
+        {
+            "id": 11,
+            "idBiblio": 2,
+            "titulo": "Crónica de una muerte anunciada",
+            "autor": "Gabriel García Márquez",
+            "genero": "Mágico",
+            "año_publicacion": 1981,
+            "isbn": "978-1400034687",
+            "disponibilidad": true,
+            "cantidad": 3,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709828203/Open-Day/Raton/Cronicadeunamuerteanunciada-Colombia-1-633x1024_xa8es4.jpg",
+            "sinopsis": "Crónica de una muerte anunciada relata el asesinato de Santiago Nasar, un joven adinerado de un pueblo caribeño, y explora temas de honor, destino y la naturaleza de la verdad."
+        },
+        {
+            "id": 12,
+            "idBiblio": 2,
+            "titulo": "Memorias de Adriano",
+            "autor": "Marguerite Yourcenar",
+            "genero": "Histórica",
+            "año_publicacion": 1951,
+            "isbn": "978-1400034688",
+            "disponibilidad": true,
+            "cantidad": 2,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709828605/Open-Day/Raton/images_fyyruk.jpg",
+            "sinopsis": "Memorias de Adriano es una novela histórica que presenta una imaginativa reconstrucción de la vida y los pensamientos del emperador romano Adriano, a través de una serie de cartas escritas por él mismo a su sucesor."
+        },
+        {
+            "id": 13,
+            "idBiblio": 2,
+            "titulo": "El túnel",
+            "autor": "Ernesto Sabato",
+            "genero": "Novela",
+            "año_publicacion": 1948,
+            "isbn": "978-9507315658",
+            "disponibilidad": true,
+            "cantidad": 3,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709828722/Open-Day/Raton/909a6478080bd205668e665c97b2f137_a9qkmy.webp",
+            "sinopsis": "El túnel es una novela psicológica que sigue la historia de un pintor llamado Juan Pablo Castel, quien se obsesiona con una mujer a la que cree conocer y termina cometiendo un crimen. La narrativa explora temas como la soledad, la alienación y la obsesión."
+        }
+        {
+            "id": 14,
+            "idBiblio": 2,
+            "titulo": "Paula",
+            "autor": "Isabel Allende",
+            "genero": "Mágico",
+            "año_publicacion": 1994,
+            "isbn": "978-0553383806",
+            "disponibilidad": true,
+            "cantidad": 5,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709828763/Open-Day/Raton/1ff8f199c0734f238e7f43e942ff35a2_tjoupi.webp",
+            "sinopsis": "Paula es una memoria escrita por Isabel Allende en honor a su hija, quien cayó en coma debido a una enfermedad rara. En esta obra, Allende recorre su vida, su familia y su carrera mientras reflexiona sobre el amor, la pérdida y la esperanza."
+        },
+        {
+            "id": 15,
+            "idBiblio": 2,
+            "titulo": "El caballero de la triste figura",
+            "autor": "Miguel de Cervantes",
+            "genero": "Aventuras",
+            "año_publicacion": 1615,
+            "isbn": "978-8424117388",
+            "disponibilidad": true,
+            "cantidad": 1,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709828880/Open-Day/Raton/download_pufsvt.jpg",
+            "sinopsis": "El caballero de la triste figura es una continuación de las aventuras de Don Quijote de la Mancha, que lo encuentra enfrentándose a nuevas peripecias mientras busca restaurar la justicia y la verdad en un mundo lleno de ilusiones y engaños."
+        },
+        {
+            "id": 16,
+            "idBiblio": 2,
+            "titulo": "Harry Potter y la cámara secreta",
+            "autor": "J.K. Rowling",
+            "genero": "Fantasía",
+            "año_publicacion": 1998,
+            "isbn": "978-8478884457",
+            "disponibilidad": true,
+            "cantidad": 3,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709828985/Open-Day/Raton/1a1b975ace9d300841c305826a644bea_owpqrq.webp",
+            "sinopsis": "Harry Potter y la cámara secreta es la segunda entrega de la serie Harry Potter, que sigue las aventuras de Harry Potter y sus amigos mientras enfrentan nuevos desafíos en el Colegio Hogwarts de Magia y Hechicería, incluyendo la amenaza de una misteriosa cámara secreta que pone en peligro a los estudiantes."
+        },
+        {
+            "id": 17,
+            "idBiblio": 2,
+            "titulo": "Sentido y sensibilidad",
+            "autor": "Jane Austen",
+            "genero": "Romántica",
+            "año_publicacion": 1811,
+            "isbn": "978-8491050685",
+            "disponibilidad": true,
+            "cantidad": 2,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709829031/Open-Day/Raton/481af0f05af4f6e4389219a073c0628f_aqnb12.webp",
+            "sinopsis": "Sentido y sensibilidad es una novela que sigue las vidas y amores de las hermanas Dashwood, Elinor y Marianne, mientras navegan por los altibajos del romance y la sociedad en la Inglaterra del siglo XIX."
+        },
+        {
+            "id": 18,
+            "idBiblio": 2,
+            "titulo": "Rebelión en la granja",
+            "autor": "George Orwell",
+            "genero": "Cienciafic",
+            "año_publicacion": 1945,
+            "isbn": "978-8423340685",
+            "disponibilidad": true,
+            "cantidad": 4,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709829078/Open-Day/Raton/9788418933394_prkfnn.jpg",
+            "sinopsis": "Rebelión en la granja es una sátira política que narra la historia de los animales de la Granja Manor, que se rebelan contra sus dueños humanos y establecen un sistema de gobierno propio, solo para enfrentarse a nuevas formas de opresión y corrupción."
+        },
+        {
+            "id": 19,
+            "idBiblio": 2,
+            "titulo": "El retrato de Dorian Gray",
+            "autor": "Oscar Wilde",
+            "genero": "Gótico",
+            "año_publicacion": 1890,
+            "isbn": "978-0307474672",
+            "disponibilidad": true,
+            "cantidad": 3,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709829109/Open-Day/Raton/9118645bef1e527a3e1f14e7187ac89e_n3onld.webp",
+            "sinopsis": "El retrato de Dorian Gray es una novela gótica que sigue la historia de un joven llamado Dorian Gray, cuyo retrato envejece mientras él permanece joven y bello. La novela explora temas como la vanidad, la moralidad y los peligros de la búsqueda de la eterna juventud."
+        },
+        {
+            "id": 20,
+            "idBiblio": 2,
+            "titulo": "El señor de los anillos: Las dos torres",
+            "autor": "J.R.R. Tolkien",
+            "genero": "Fantasía",
+            "año_publicacion": 1954,
+            "isbn": "978-8445071408",
+            "disponibilidad": true,
+            "cantidad": 2,
+            "imagen": "https://res.cloudinary.com/dtmapxnao/image/upload/v1709829159/Open-Day/Raton/364925_portada_el-senor-de-los-anillos-n-0203-las-dos-torres-ne_j-r-r-tolkien_202203111314_g7sujb.jpg",
+            "sinopsis": "El señor de los anillos: Las dos torres es la segunda parte de la trilogía de El señor de los anillos, que sigue las aventuras de Frodo Bolsón y un grupo de compañeros mientras viajan para destruir un poderoso anillo y derrotar al malvado Señor Oscuro, Sauron."
+        }
+    ]
+}
